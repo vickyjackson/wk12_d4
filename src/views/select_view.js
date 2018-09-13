@@ -5,5 +5,5 @@ const SelectView = function(){
 }
 
 SelectView.prototype.bindEvents = function(){
-
+  
 };
